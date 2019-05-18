@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin-AlertDialog</string>
+    <string name="delete_file_txt">Delete File</string>
+    <string name="delete_message_txt">Deleting file may be harm for your system</string>
+    <string name="deleted_txt">File deleted</string>
+    <string name="not_deleted_txt">File not deleted</string>
+</resources>
