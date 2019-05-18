@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin-SharedPreferences</string>
+    <string name="save_text">Save</string>
+    <string name="view_text">View</string>
+    <string name="delete_text">Delete</string>
+    <string name="clear_text">Clear</string>
+</resources>
