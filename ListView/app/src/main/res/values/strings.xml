@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kotlin-ListView</string>
+    <string name="sample_text">Sample Text</string>
+
+    <string-array name="languages">
+        <item>C/C++</item>
+        <item>Java</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>PHP</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+        <item>Swift</item>
+    </string-array>
+</resources>
