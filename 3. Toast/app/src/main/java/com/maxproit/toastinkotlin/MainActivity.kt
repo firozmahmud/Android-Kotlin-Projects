@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun initListener() {
         button1.setOnClickListener {
-            showToast("Hello, This is toast")
+            showToast("Hello, this is toast")
         }
         button2.setOnClickListener {
             showCustomToast("Hello, This is custom toast")
