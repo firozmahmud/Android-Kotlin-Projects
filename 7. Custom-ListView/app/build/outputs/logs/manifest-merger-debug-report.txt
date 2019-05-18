@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\564924348edcbdbe4eefcd63c65bd0e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\e5521e813a907f6b8907b8a40ec1007d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\cf3c46ec0e091d4546ddab0d43508f8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\bd5f0b6f52f636dea620a4ba1fbd4df5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\32d045d564aff6769ad8a854b4e6909c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6b47a8b61e4af63a7a0a1d859ff15b05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\672d466f2af222849ea46250353443f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\a5674da6bdbfe22829b9676dd90fbd81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\73ba93b8e27cd41d380f8d9eb548583c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\7e9613db32aa8690eb1ed45cef277702\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0cac3034a05707f2a1e86945825a39c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\415c474dffb821ab2c4e70ed48c6678b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0d8a3b981a27dae83f10ce34b2f7cb9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6a293e72c90f2416666970f4e6a49505\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\856b73d93dec78db8b594e574509cf50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\4d04446dc2ffab58f9f4618c5e535b18\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0fe3a3728ae412702f9870c9a01b6dcb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\498bed0868fd398cbd8b95d39a7a3c28\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\cd424280f25d505460cdc5bf94ecb59f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6b36293ea8cfaef7fb8cf20de3bd1558\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\b22a3631435fb9c50892a4c1c4fdfc00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\46de1f358971a67a160935da4f3023c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\fee0a4722a1bbf02995c83e93a8a8de9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\fd0cf1161ae164c1b14e4b8f866e97e7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\14987487133e63ad91e59add5c7d15bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\7da99ed5d46424ba5c5e2bb691b57bce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\9a9127646925f3c5d794cb27f75eb924\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:3:11-49
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\e5521e813a907f6b8907b8a40ec1007d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\e5521e813a907f6b8907b8a40ec1007d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\4d04446dc2ffab58f9f4618c5e535b18\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\4d04446dc2ffab58f9f4618c5e535b18\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0fe3a3728ae412702f9870c9a01b6dcb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0fe3a3728ae412702f9870c9a01b6dcb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\4d04446dc2ffab58f9f4618c5e535b18\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.maxproit.custom_listview.MainActivity
+ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\564924348edcbdbe4eefcd63c65bd0e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\564924348edcbdbe4eefcd63c65bd0e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\e5521e813a907f6b8907b8a40ec1007d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\e5521e813a907f6b8907b8a40ec1007d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\cf3c46ec0e091d4546ddab0d43508f8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\cf3c46ec0e091d4546ddab0d43508f8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\bd5f0b6f52f636dea620a4ba1fbd4df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\bd5f0b6f52f636dea620a4ba1fbd4df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\32d045d564aff6769ad8a854b4e6909c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\32d045d564aff6769ad8a854b4e6909c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6b47a8b61e4af63a7a0a1d859ff15b05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6b47a8b61e4af63a7a0a1d859ff15b05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\672d466f2af222849ea46250353443f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\672d466f2af222849ea46250353443f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\a5674da6bdbfe22829b9676dd90fbd81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\a5674da6bdbfe22829b9676dd90fbd81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\73ba93b8e27cd41d380f8d9eb548583c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\73ba93b8e27cd41d380f8d9eb548583c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\7e9613db32aa8690eb1ed45cef277702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\7e9613db32aa8690eb1ed45cef277702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0cac3034a05707f2a1e86945825a39c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0cac3034a05707f2a1e86945825a39c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\415c474dffb821ab2c4e70ed48c6678b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\415c474dffb821ab2c4e70ed48c6678b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0d8a3b981a27dae83f10ce34b2f7cb9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0d8a3b981a27dae83f10ce34b2f7cb9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6a293e72c90f2416666970f4e6a49505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6a293e72c90f2416666970f4e6a49505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\856b73d93dec78db8b594e574509cf50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\856b73d93dec78db8b594e574509cf50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\4d04446dc2ffab58f9f4618c5e535b18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\4d04446dc2ffab58f9f4618c5e535b18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0fe3a3728ae412702f9870c9a01b6dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\0fe3a3728ae412702f9870c9a01b6dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\498bed0868fd398cbd8b95d39a7a3c28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\498bed0868fd398cbd8b95d39a7a3c28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\cd424280f25d505460cdc5bf94ecb59f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\cd424280f25d505460cdc5bf94ecb59f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6b36293ea8cfaef7fb8cf20de3bd1558\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\6b36293ea8cfaef7fb8cf20de3bd1558\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\b22a3631435fb9c50892a4c1c4fdfc00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\b22a3631435fb9c50892a4c1c4fdfc00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\46de1f358971a67a160935da4f3023c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\46de1f358971a67a160935da4f3023c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\fee0a4722a1bbf02995c83e93a8a8de9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\fee0a4722a1bbf02995c83e93a8a8de9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\fd0cf1161ae164c1b14e4b8f866e97e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\fd0cf1161ae164c1b14e4b8f866e97e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\14987487133e63ad91e59add5c7d15bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\14987487133e63ad91e59add5c7d15bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\7da99ed5d46424ba5c5e2bb691b57bce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\7da99ed5d46424ba5c5e2bb691b57bce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\9a9127646925f3c5d794cb27f75eb924\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\firoz\.gradle\caches\transforms-2\files-2.1\9a9127646925f3c5d794cb27f75eb924\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\firoz\Documents\GitHub\Custom-ListView\app\src\main\AndroidManifest.xml

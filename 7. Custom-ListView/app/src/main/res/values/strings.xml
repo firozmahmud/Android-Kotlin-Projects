@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Custom-ListView</string>
+    <string name="title">Title</string>
+    <string name="desc">This is description</string>
+
+    <string-array name="language_list">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>C#</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+        <item>Swift</item>
+        <item>PHP</item>
+        <item>JavaScript</item>
+
+    </string-array>
+    <string-array name="desc_list">
+        <item>C programming is considered as the base for other programming languages</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+        <item>C++ is an object-oriented programming language</item>
+    </string-array>
+
+    <integer-array name="image_list">
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+    </integer-array>
+</resources>
