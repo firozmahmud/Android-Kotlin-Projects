@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Any Option"
+            android:textSize="25sp"
+            android:textAlignment="center">
+
+    </TextView>
+    <RadioGroup
+            android:layout_width="match_parent"
+            android:id="@+id/radioGroup"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_height="wrap_content">
+
+        <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioBtn1"
+                android:layout_marginRight="10dp"
+                android:text="Option 1"
+        />
+
+        <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioBtn2"
+                android:layout_marginRight="10dp"
+                android:text="Option 2"
+        />
+
+        <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioBtn3"
+                android:text="Option 3"
+        />
+
+    </RadioGroup>
+
+
+    <TextView
+            android:layout_width="match_parent"
+            android:text="You select"
+            android:textAlignment="center"
+            android:id="@+id/radioBtnResult"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"/>
+
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:text="Select your favourite cricketer"/>
+
+
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Afridi"
+            android:id="@+id/cbAfridi"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="left"
+    />
+
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chris Gayle"
+            android:id="@+id/cbChrisGayle"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="left"
+    />
+
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AB de Villiers"
+            android:id="@+id/cbABdeVilliers"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="left"
+    />
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:id="@+id/checkBoxResultTv"/>
+
+</LinearLayout>
